@@ -14,7 +14,7 @@ Ionicons: [Click to download](https://github.com/driftyco/ionicons/archive/v2.0.
 
 ### Next
 
-[Download the Sketch Template](https://github.com/GeekyAnts/NativeBase-Sketch-Template/blob/master/nativebase-v1-1-0.sketch?raw=true)
+[Download the Sketch Template](https://github.com/GeekyAnts/NativeBase-Sketch-Template/blob/master/nativebase-v1-2-0.sketch?raw=true)
 
 Then simply Copy and Paste components from the template!
 

@@ -1,3 +1,7 @@
+# Version 1.2.0
+
+- Implemented Shared Layer Styles
+
 # Version 1.1.0
 
 - Android components added
