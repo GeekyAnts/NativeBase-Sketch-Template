@@ -8,9 +8,9 @@
 
 ### You'll need the following fonts
 
-San Fransisco Fonts: [Click to download](https://developer.apple.com/fonts/downloads/SFUI.zip)
-
 Ionicons: [Click to download](https://github.com/driftyco/ionicons/archive/v2.0.1.zip)
+
+San Fransisco Fonts: [Click to download](https://developer.apple.com/fonts/downloads/SFUI.zip)
 
 ### Next
 
