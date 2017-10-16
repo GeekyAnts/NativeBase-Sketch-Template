@@ -1,3 +1,5 @@
+## Not being maintained at the moment
+
 # NativeBase Sketch Template
 
 ### Sketch Template for NativeBase components
